@@ -1,0 +1,5 @@
+ny_taxi_postgres_data/
+.idea
+env/
+week_1/yellow_tripdata_2021-01.csv
+week_1/postgres
